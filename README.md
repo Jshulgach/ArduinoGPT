@@ -13,7 +13,7 @@ pip install -r requirements.txt
 `uno-led-test.py` - This program is a speech recognition and text-to-speech program that utilizes the OpenAI API to send commands to a microcontroller that controls it's built-in LED.
 
 <figure>
-  <img src="https://github.com/Jshulgach/Hand-Landmark-Tracker/blob/main/media/uno-chatgpt-voice-demo.gif" alt="uno-chatgpt" width="500" height="400"><br>
+  <img src="https://github.com/Jshulgach/ArduinoGPT/blob/main/media/uno-chatgpt-voice-demo.gif" alt="uno-chatgpt" width="800" height="400"><br>
 </figure>
 
 To run this program, you must have an OpenAI API key.
