@@ -1,0 +1,4 @@
+speechRecognition
+PyAudio
+langchain
+pyserial
