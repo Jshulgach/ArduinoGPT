@@ -1,4 +1,7 @@
 speechRecognition
 PyAudio
-langchain
-pyserial
+langchain~=0.1.0
+pyserial~=3.5
+openai~=1.7.2
+opencv-python~=4.9.0.80
+mediapipe~=0.10.9
